@@ -9,23 +9,41 @@ and left to right, with empty cells represented by dots and other cells
 represented by its value. Example:
 
 5 3 . . 7 . . . .
+
 6 . . 1 9 5 . . .
+
 . 9 8 . . . . 6 .
+
 8 . . . 6 . . . 3
+
 4 . . 8 . 3 . . 1
+
 7 . . . 2 . . . 6
+
 . 6 . . . . 2 8 .
+
 . . . 4 1 9 . . 5
+
 . . . . 8 . . 7 9
+
 
 Same example in a more compact format, also valid:
 
 53..7....
+
 6..195...
+
 .98....6.
+
 8...6...3
+
 4..8.3..1
+
 7...2...6
+
 .6....28.
+
 ...419..5
+
 ....8..79
+
